@@ -200,7 +200,7 @@ skills:
 
       - name: Looker Studio
         #level: 
-      
+        
       - name: Airflow/dbt
       # level
 footer: >
