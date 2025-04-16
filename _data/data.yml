@@ -81,7 +81,7 @@ experiences:
             - Led two strategic initiatives: harmonizing editorial dashboards and transitioning to unified data models to reduce redundancy,and standardize KPIs
             - Built data pipelines and dashboards for key business initiatives
             - Developed an editorial AI bot for content performance inquiries
-            - Managed and customized data workflows using Airflow and dbt for ETL processes
+            - Used Airflow and dbt to manage and customize data workflows for extraction, transformation, and loading
       - role: Data Analyst
         time: Jan 2021 - Dec 2023
         company: Dagens industri, Stockholm
@@ -89,6 +89,7 @@ experiences:
             - Built real-time dashboards for visualizing important editorial KPI:s
             - Applied forecasting models for predicting future traffic patterns
             - Used SQL (BigQuery), and R/Python for data analysis in my everyday work
+            - Frequent presentations to stakeholders with varying backgrounds
             - Responsible for the design and execution of several A/B-tests related to user behavior 
 
       - role: Research Analyst
@@ -97,6 +98,7 @@ experiences:
         details: |
             - Statistical advisor for undergraduate students covering consultancies such as choice of analytical approach, execution of analyses, and interpretations of the results
             - Analyzed large datasets, encompassing data preprocessing, and predictive modeling
+            - Frequent presentations to stakeholders with varying backgrounds
             - Utilized a wide array of visualization techniques to validate the data and support interpretations
       - role: Research Analyst
         time: Feb 2019 - Aug 2020
@@ -180,14 +182,11 @@ skills:
     title: Skills
 
     toolset:
-      - name: SQL
+      - name: SQL/BigQuery
         #level:
-      - name: Python
+      - name: Python/R
         #level: 
-
-      - name: R
-        #level: 
-
+        
       - name: BigQuery
         #level: 
 
