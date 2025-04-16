@@ -56,12 +56,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-     Forward-thinking and driven Data Analyst, with a 
-     background in quantitative research (PhD in Psychology).
-     Proficiency in conducting complex statistical analyses and a strong understanding 
-     of research methodologies. Highly skilled in communicating insights to stakeholders, 
-     adept at utilizing a diverse range of tools for data visualization and predictive modeling, 
-     and deeply passionate about exploring large datasets to uncover valuable insights.
+          Forward-thinking and driven Data Analyst with a PhD in Psychology and a broad foundation 
+          across the analytics spectrum. Experienced in leading data-driven initiatives at the intersection of business and analytics. 
+          Skilled at transforming complex data into actionable insights, meaningful KPIs, and compelling narratives for diverse stakeholders. 
+          Passionate about building collaborative, high-performing teams and leveraging AI and advanced analytics to drive editorial excellence and strategic impact.
 education:
     title: Education
     info:
@@ -79,11 +77,11 @@ experiences:
         time: Jan 2024 - Present
         company: Dagens industri, Stockholm
         details: |
-            - Drove a data-driven culture by promoting and developing new KPIs focused on reader engagement and user loyalty, enhancing business strategies
-            - Working with a data migration project, aimed att make our behavioral data compatible with new GDPR regulations
+            - Drove a data-driven culture by promoting and developing new KPIs focused on editorial reader engagement and user loyalty, enhancing business strategies
+            - Leading two strategic initiatives: harmonizing editorial dashboards across business units and driving the transition to unified data models to reduce redundancy, lower costs, and standardize cross-business KPIs.
             - Built data pipelines and dashboards for important business initiatives
-            - Part of a team developing an AI-driven recommendation tool for editorial content
-            - Used Apache Airflow to manage and customize data workflows for extraction, transformation, and loading
+            - Developed an editorial AI bot for respond to inquiries about content performance, and contributed to the development of an AI-driven recommendation tool for editorial content
+            - Used Airflow and dbt to manage and customize data workflows for extraction, transformation, and loading
       - role: Data Analyst
         time: Jan 2021 - Dec 2023
         company: Dagens industri, Stockholm
@@ -203,5 +201,7 @@ skills:
       - name: Looker Studio
         #level: 
         
+      - name: Airflow/dbt
+      # level
 footer: >
 #    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
